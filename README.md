@@ -1,0 +1,2 @@
+# RainbowDemo
+在Xcode6中使用IBDesignable创建自定义控件
